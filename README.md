@@ -3,4 +3,4 @@ This script determines when HEB curbside parking spaces for curbside delivery be
 
 
 Continuing reading more about this project on this page:
-[https://github.com/beebus/hebCurbsideAvailabilityScript/blob/master/related_links.md](https://github.com/beebus/hebCurbsideAvailabilityScript/blob/master/related_links.md)
+[https://github.com/beebus/HEB_Curbside_Availability_Script/blob/master/related_links.md](https://github.com/beebus/HEB_Curbside_Availability_Script/blob/master/related_links.md)
